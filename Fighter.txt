@@ -1,0 +1,10 @@
+Blazing Furry,12
+Flame Burst,12
+Meteor Smash,15
+Quake Slam,15
+Rock Barrage,10
+Void Punch,17
+Lightning Jab,15
+Solar Flare,20
+Holy Punch,21
+Tinju Luar Biasa,25

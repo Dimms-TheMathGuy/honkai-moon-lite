@@ -1,0 +1,11 @@
+skill Name,Damage,Price
+Inferno Blade,10,8
+Electro Blade,10,8
+Blazing Shadows,13,10
+Miasma Cloud,15,12
+Thunder Strike,15,12
+Ice Shuriken,10,8
+Dark Cloak,17,20
+Venomous Strike,20,25
+Gale Slash,16,18
+Deadly Surge,20,25

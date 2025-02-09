@@ -1,0 +1,10 @@
+Pyroclasm,9
+Emberstorm,10
+Water Whip,12
+Tsunami Wave,13
+Ice Lance,13
+Zephyr Blade,15
+Blizzard,15
+Frost Nova,16
+Glacial Spike,20
+Radiant Beam,20
