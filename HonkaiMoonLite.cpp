@@ -563,7 +563,7 @@ void LoadingPage()
 	|  _  | (_) | | | |   < (_| | | | |  | | (_) | (_) | | | | | |___| | ||  __/
 	|_| |_|\___/|_| |_|_|\_\__,_|_| |_|  |_|\___/ \___/|_| |_| |_____|_|\__\___|)" << "\n";
 
-    cout << BLUE << "\t\t\tCreated By : Moh. Rega Assegaf Nur Habibi\n\n";
+    cout << BLUE << "\t\t\tCreated By : Mohammad Dimas Afradika || Code Like A Pro Academy\n\n";
 
 	cout << "\n\t\t\tEntering World ";
 	int i = 10;
@@ -828,7 +828,7 @@ int main()
 	|  _  | (_) | | | |   < (_| | | | |  | | (_) | (_) | | | | | |___| | ||  __/
 	|_| |_|\___/|_| |_|_|\_\__,_|_| |_|  |_|\___/ \___/|_| |_| |_____|_|\__\___|)" << "\n";
 
-    cout << BLUE << "\t\t\tCreated By : Moh. Rega Assegaf Nur Habibi\n\n";
+    cout << BLUE << "\t\t\tCreated By : Mohammad Dimas Afradika || Code Like A Pro Academy\n\n";
 
         srand(static_cast<unsigned int>(time(NULL)));
         cout << "Welcome Adventurer !! Let's Begin Your Journey : \n" << "1. create new account\n" << "2. Login\n" << "3. Exit\n";
@@ -853,10 +853,3 @@ int main()
     }
     return 0;
 }
-
-/* kurang :
-- musuh yang sudah beaten masih ada di map   v
-- nambah uang  v
-- tempat belanja skill
-- save game v
-- naik level*/
